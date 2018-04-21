@@ -1,7 +1,7 @@
 baseurl = "."
 languageCode = "en-us"
-title = "Hyde"
+title = "Rido Keys"
 theme = "hyde"
 
 [params]
-  themeColor = "theme-base-09"
+  themeColor = "theme-base-04"
