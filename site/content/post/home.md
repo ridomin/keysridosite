@@ -8,7 +8,7 @@ I can be my own authority, if you trust this domain, you can trust my public key
 
 ## X509
 
-Rido Test CA 2018
+[Rido Test CA 2018](/certs/RidoTestCA_B64.cer)
 
 I use this CA to generate code signing certificates. 
 
@@ -36,7 +36,7 @@ SPjQ4FlWkYGAMPtU
 
 My latest Code Signing Certificate
 
-[RidoThedev](/data/RidoTestCA_B64.cer)
+[RidoThedev](/certs/RidoTheDev_B64.cer)
 ```
 -----BEGIN CERTIFICATE-----
 MIIDTzCCAjegAwIBAgIQWcvxhq1ouaNCFjLTMa0syjANBgkqhkiG9w0BAQsFADAX
