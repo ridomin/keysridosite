@@ -6,6 +6,8 @@ I want to share software in a secure way, without depend on any 3rd party author
 
 I can be my own authority, if you trust this domain, you can trust my public keys:
 
+[ridomin@keybase](https://keybase.io/rido)
+
 ## X509
 
 [Rido Test CA 2018](/certs/RidoTestCA_B64.cer)
