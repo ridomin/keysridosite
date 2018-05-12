@@ -16,6 +16,14 @@ The Windows OS comes with 2 different cert stores:
 
 ## MacOS
 
+Mac has its own certificate store.
+
+## Linux
+
+Each linux distro has its own cert store, and also different software packages
+
+- MozRoots
+- OpenSSL
 
 
 
